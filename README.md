@@ -36,11 +36,7 @@ The following graph shows the **training and validation loss & accuracy** of the
 ## 🚀 Installation & Setup
 
 ### **1️⃣ Install Dependencies**
-Run the following command to install all required packages:
+Run the following commands to install all required packages and run the face mask detector code:
 ```bash
 pip install -r requirements.txt
-
-### **2️⃣ Run the code**
-Run the following command to run the face mask detector code:
-```bash
 python detect_mask_video.py
