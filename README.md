@@ -25,13 +25,11 @@ The following graph shows the **training and validation loss & accuracy** of the
 
 ## 📷 Output Screenshots
 ### **1️⃣ Mask Detected ✅**
-![Mask Detected](without_mask.png)
+![Mask Detected](with_mask.png)
 
 ### **2️⃣ No Mask Detected ❌**
-![No Mask Detected](output/no_mask_detected.png)
+![No Mask Detected](without_mask.png)
 
-### **3️⃣ Multiple People Detection**
-![Multiple People](output/multiple_people.png)
 
 ---
 
@@ -41,3 +39,8 @@ The following graph shows the **training and validation loss & accuracy** of the
 Run the following command to install all required packages:
 ```bash
 pip install -r requirements.txt
+
+### Run the code**
+Run the following command to run the face mask detector code:
+```bash
+python detect_mask_video.py
