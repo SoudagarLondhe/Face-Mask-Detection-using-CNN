@@ -40,7 +40,7 @@ Run the following command to install all required packages:
 ```bash
 pip install -r requirements.txt
 
-### Run the code**
+### **2️⃣ Run the code**
 Run the following command to run the face mask detector code:
 ```bash
 python detect_mask_video.py
